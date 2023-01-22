@@ -14,59 +14,58 @@
 
 @font-face {
     font-family: "Agrandir";
-    src: url(../fonts/Agrandir-Regular.otf) format("opentype");
-    font-weight: 400;
+    src: url(../fonts/Agrandir-Regular.otf) format('opentype');
     font-style: normal;
-    /* font-display: swap; */
+    font-display: swap;
+    font-weight: 400;
 }
 
 @font-face {
     font-family: "Agrandir";
-    src: url(../fonts/Agrandir-TextBold.otf) format("opentype");
-    font-weight: 700;
+    src: url(../fonts/Agrandir-TextBold.otf) format('opentype');
     font-style: normal;
-    /* font-display: swap; */
+    font-display: swap;
+    font-weight: 700;
 }
 
 @font-face {
     font-family: Agrandir;
-    src: url('../fonts/Agrandir-GrandHeavy.eot');
-    src: url('../fonts/Agrandir-GrandHeavy.woff2') format('woff2'), url('../fonts/Agrandir-GrandHeavy.woff') format('woff'), url('../fonts/Agrandir-GrandHeavy.otf') format('otf'), url('../fonts/Agrandir-GrandHeavy.ttf') format('truetype'), url('../fonts/Agrandir-GrandHeavy.svg') format('svg');
-    font-weight: 800;
+    src: url(../fonts/Agrandir-GrandHeavy.otf) format('opentype');
     font-style: normal;
     font-display: swap;
+    /* font-weight: 700; */
 }
 
 @font-face {
     font-family: "NunitoSans";
     src: url(../fonts/NunitoSans-Regular.ttf);
-    font-weight: 400;
     font-style: normal;
     font-display: swap;
+    font-weight: 400;
 }
 
 @font-face {
     font-family: "NunitoSans";
     src: url(../fonts/NunitoSans-Bold.ttf);
-    font-weight: 700;
     font-style: normal;
     font-display: swap;
+    font-weight: 700;
 }
 
 @font-face {
     font-family: "NunitoSans";
     src: url(../fonts/NunitoSans-ExtraBold.ttf);
-    font-weight: 800;
     font-style: normal;
     font-display: swap;
+    font-weight: 800;
 }
 
 @font-face {
     font-family: "NunitoSans";
     src: url(../fonts/NunitoSans-Black.ttf);
-    font-weight: 900;
     font-style: normal;
     font-display: swap;
+    font-weight: 900;
 }
 
 /*  Ð‘ÐÐ—ÐžÐ’Ð«Ð• ÐÐÐ¡Ð¢Ð ÐžÐ™ÐšÐ˜  */
